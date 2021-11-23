@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://github.com/BJB-Team/TechFind">Link to Repository</a>
     ·
-    <a href="/">Link to Website</a>
+    <a href="/">Link to Deployed Website</a>
   </p>
 </p>
 
@@ -24,6 +24,7 @@
   - [**Statement of Purpose**](#statement-of-purpose)
   - [**Wireframes**](#wireframes)
   - [**Target Audience**](#target-audience)
+  - [**Functionality**](#functionality)
   - [**User Stories**](#user-stories)
     - [As a Seeker](#as-a-seeker)
     - [As a Poster](#as-a-poster)
@@ -42,18 +43,22 @@
 
 The core programming languages used to build this application are:
 
-- Ruby (3.0.1) on Rails (6.1.4)
-- HTML5
-- CSS3
-- JavaScript (ES6)
-- ReactJS
-- Postgresql 13.3
+- Ruby (3.0.1) on Rails (6.1.4) [Read Docs]()
+- HTML5 [Read Docs]()
+- CSS3 [Read Docs]()
+- JavaScript (ES6) [Read Docs]()
+- ReactJS [Read Docs]()
+- Postgresql 13.3 [Read Docs]()
 
 ### **Statement of Purpose**
+
+The purpose of the TechFind application is to link IT positions with candidates with those skills. Say goodbye to Junior Dev roles seeking 10 years experience in .NET.
 
 ### **Wireframes**
 
 ### **Target Audience**
+
+### **Functionality**
 
 ### **User Stories**
 
