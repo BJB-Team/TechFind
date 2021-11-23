@@ -1,14 +1,14 @@
 <div style="text-align:center">
-    <img align="centre" src="https://img.shields.io/tokei/lines/github/benaitcheson/T2A2_Marketplace_App?style=flat-square">
-    <img src="https://img.shields.io/github/languages/top/benaitcheson/T2A2_Marketplace_App?style=flat-square"> <img src="https://img.shields.io/github/languages/count/benaitcheson/T2A2_Marketplace_App?style=flat-square"> <img src="https://img.shields.io/github/repo-size/benaitcheson/T2A2_Marketplace_App?style=flat-square">
+    <img align="centre" src="https://img.shields.io/tokei/lines/github/BJB-Team/TechFind?style=flat-square">
+    <img src="https://img.shields.io/github/languages/top/BJB-Team//TechFind?style=flat-square"> <img src="https://img.shields.io/github/repo-size/BJB-Team/TechFind?style=flat-square">
 </div>
 
 <p align="center">
   <h2 align="center">Assignment 2A & 2B - Term 3</h2>
   <p align="center">
-    <a href="https://github.com/benaitcheson/T2A2_Marketplace_App/">Link to Repository</a>
+    <a href="https://github.com/BJB-Team/TechFind">Link to Repository</a>
     ·
-    <a href="https://t2a2-marketplace-app.herokuapp.com/">Link to Website</a>
+    <a href="/">Link to Website</a>
   </p>
 </p>
 
@@ -44,14 +44,10 @@ The core programming languages used to build this application are:
 
 - Ruby (3.0.1) on Rails (6.1.4)
 - HTML5
-- CSS3/SCSS
+- CSS3
 - JavaScript (ES6)
 - ReactJS
 - Postgresql 13.3
-
-<!-- Fix this part -->
-
-These are stored within a public repository on GitHub, because this application has back-end components GitHub pages was inadequate. Heroku was used instead to host the application. Gems and third party software can be viewed [here](#third-party-appsservices).
 
 ### **Statement of Purpose**
 
