@@ -52,11 +52,21 @@ The core programming languages used to build this application are:
 
 ### **Statement of Purpose**
 
-The purpose of the TechFind application is to link IT positions with candidates with those skills. Say goodbye to Junior Dev roles seeking 10 years experience in .NET.
+The purpose of the TechFind application is to link IT positions with candidates with those skills. Say goodbye to Junior Dev roles seeking 10 years experience in .NET roles.
 
 ### **Wireframes**
 
+Here are the initial wireframes for the TechFind application.
+
+Page one in Desktop and on the mobile:
+
+Page one in Desktop and on the mobile:
+
+ect....
+
 ### **Target Audience**
+
+The target audience for this application are
 
 ### **Functionality**
 
