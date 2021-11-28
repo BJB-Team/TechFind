@@ -29,7 +29,9 @@
     - [As a Seeker](#as-a-seeker)
     - [As a Poster](#as-a-poster)
   - [As a](#as-a)
+  - [**Application Architecture Diagram**](#application-architecture-diagram)
   - [**Entity Relationship Diagram (ERD)**](#entity-relationship-diagram-erd)
+  - [**Dataflow Diagram**](#dataflow-diagram)
   - [**Third Party Apps/Services**](#third-party-appsservices)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -87,9 +89,13 @@ The target audience for this application are
 
 “As a job poster, I want to find the right candidates, so that I get the best people for the job.”
 
-### As a
+#### As a
+
+### **Application Architecture Diagram**
 
 ### **Entity Relationship Diagram (ERD)**
+
+### **Dataflow Diagram**
 
 ### **Third Party Apps/Services**
 
@@ -129,9 +135,9 @@ Contributions are what make the open source community such an amazing place to b
 
 - Ben Aitcheson - [Github](https://github.com/benaitcheson) / [Website](https://www.benaitcheson.me/)
 
-- Jack Kirkwood - [Github]()
+- Jack Kirkwood - [Github](https://github.com/jkirky82)
 
-- Blaise
+- Lukusa (Blaise) Tshitenga - [Github](https://github.com/Blaise122)
 
 ---
 
