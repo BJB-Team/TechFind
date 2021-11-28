@@ -25,10 +25,11 @@
   - [**Wireframes**](#wireframes)
   - [**Target Audience**](#target-audience)
   - [**Functionality**](#functionality)
+  - [**Project Management**](#project-management)
   - [**User Stories**](#user-stories)
     - [As a Seeker](#as-a-seeker)
     - [As a Poster](#as-a-poster)
-  - [As a](#as-a)
+    - [As a Manager](#as-a-manager)
   - [**Application Architecture Diagram**](#application-architecture-diagram)
   - [**Entity Relationship Diagram (ERD)**](#entity-relationship-diagram-erd)
   - [**Dataflow Diagram**](#dataflow-diagram)
@@ -73,6 +74,8 @@ The target audience for this application are
 
 ### **Functionality**
 
+### **Project Management**
+
 ### **User Stories**
 
 - "As a [persona]": Who are we building this for? We’re not just after a job title, we’re after the persona of the person. Max. Our team should have a shared understanding of who Max is. We’ve hopefully interviewed plenty of Max’s. We understand how that person works, how they think and what they feel. We have empathy for Max.
@@ -85,11 +88,15 @@ The target audience for this application are
 
 “As a job seeker, I want to see what jobs candidates are posting, so that I can advance my career.”
 
+Smaller user story for a seeker:
+
 #### As a Poster
 
 “As a job poster, I want to find the right candidates, so that I get the best people for the job.”
 
-#### As a
+Smaller user story for a poster:
+
+#### As a Manager
 
 ### **Application Architecture Diagram**
 
