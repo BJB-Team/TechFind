@@ -77,6 +77,9 @@ To manage the team for this application a Trello board was set up.
 
 ### **Functionality**
 
+Authentication
+Company profiles
+
 ### **User Stories**
 
 Here are some User Stories that we built this application from.
@@ -108,6 +111,10 @@ Here are some User Stories that we built this application from.
 > "As a job poster, I can add jobs to my company profile, so that I can show future prospects what jobs I am hiring for."
 
 ### **Application Architecture Diagram**
+
+As you can see from the Architecture diagram below, this application will have the front-end deployed through Netlify while the back-end will be on Heroku. Axios requests will send information between the two platforms creating a full stack application completely hosted on the cloud.
+
+<img src="ArchitectureDiagram.png">
 
 ### **Entity Relationship Diagram (ERD)**
 
