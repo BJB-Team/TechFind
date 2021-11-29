@@ -24,11 +24,11 @@
   - [**Statement of Purpose**](#statement-of-purpose)
   - [**Wireframes**](#wireframes)
   - [**Target Audience**](#target-audience)
+  - [**Project Management**](#project-management)
   - [**Functionality**](#functionality)
   - [**User Stories**](#user-stories)
     - [As a Seeker](#as-a-seeker)
     - [As a Poster](#as-a-poster)
-  - [As a](#as-a)
   - [**Application Architecture Diagram**](#application-architecture-diagram)
   - [**Entity Relationship Diagram (ERD)**](#entity-relationship-diagram-erd)
   - [**Dataflow Diagram**](#dataflow-diagram)
@@ -55,7 +55,7 @@ The core programming languages used to build this application are:
 
 ### **Statement of Purpose**
 
-The purpose of the TechFind application is to link IT positions with candidates with those skills. Say goodbye to Junior Dev roles seeking 10 years experience in .NET roles.
+The purpose of the TechFind application is to link IT positions with candidates with those skills. Say goodbye to Junior Dev roles seeking 10 years experience in .NET roles. Each Job Poster can assign themselves to a company and create job advertisements to seek out potential employees.
 
 ### **Wireframes**
 
@@ -69,27 +69,34 @@ ect....
 
 ### **Target Audience**
 
-The target audience for this application are
+The target audience for this application are people in the technology industry looking for a job board that is specific to their industry.
+
+### **Project Management**
+
+To manage the team for this application a Trello board was set up.
 
 ### **Functionality**
 
 ### **User Stories**
 
-- "As a [persona]": Who are we building this for? We’re not just after a job title, we’re after the persona of the person. Max. Our team should have a shared understanding of who Max is. We’ve hopefully interviewed plenty of Max’s. We understand how that person works, how they think and what they feel. We have empathy for Max.
-
-- “Wants to”: Here we’re describing their intent — not the features they use. What is it they’re actually trying to achieve? This statement should be implementation free — if you’re describing any part of the UI and not what the user goal is you're missing the point.
-
-- “So that”: how does their immediate desire to do something this fit into their bigger picture? What’s the overall benefit they’re trying to achieve? What is the big problem that needs solving?
+Here are some User Stories that we built this application from.
 
 #### As a Seeker
 
-“As a job seeker, I want to see what jobs candidates are posting, so that I can advance my career.”
+> “As a job seeker, I want to see what jobs candidates are posting, so that I can advance my career.”
+> "As a job seeker, I can login with my email and a password, so that I have a unique identification."
+> "As a job seeker, I can add some details like email, mobile or location, so that future employers can get in contact with me."
+> "As a job seeker, I can search by job categories, so that I can find jobs specific to my ideal career."
+> "As a job seeker, I can update and change my profile details, so that as my circumstances change I can stay up to date."
+> "As a job seeker, I can upload my resume/CV, so that potential employers can download it at any point in time."
+> "As a job seeker, I can message a job poster through the application, so that I can get a quick response back directly from the person/company."
 
 #### As a Poster
 
-“As a job poster, I want to find the right candidates, so that I get the best people for the job.”
-
-#### As a
+> “As a job poster, I want to find the right candidates, so that I get the best people for the job.”
+> "As a job poster, I can login with my email and password, so that I have a unique identification."
+> "As a job poster, I can login under my company profile, so that seekers can see which company I work for."
+> "As a job poster, I can add jobs to my company profile, so that I can show future prospects what jobs I am hiring for."
 
 ### **Application Architecture Diagram**
 
