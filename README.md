@@ -84,18 +84,27 @@ Here are some User Stories that we built this application from.
 #### As a Seeker
 
 > “As a job seeker, I want to see what jobs candidates are posting, so that I can advance my career.”
+
 > "As a job seeker, I can login with my email and a password, so that I have a unique identification."
+
 > "As a job seeker, I can add some details like email, mobile or location, so that future employers can get in contact with me."
+
 > "As a job seeker, I can search by job categories, so that I can find jobs specific to my ideal career."
+
 > "As a job seeker, I can update and change my profile details, so that as my circumstances change I can stay up to date."
+
 > "As a job seeker, I can upload my resume/CV, so that potential employers can download it at any point in time."
+
 > "As a job seeker, I can message a job poster through the application, so that I can get a quick response back directly from the person/company."
 
 #### As a Poster
 
 > “As a job poster, I want to find the right candidates, so that I get the best people for the job.”
+
 > "As a job poster, I can login with my email and password, so that I have a unique identification."
+
 > "As a job poster, I can login under my company profile, so that seekers can see which company I work for."
+
 > "As a job poster, I can add jobs to my company profile, so that I can show future prospects what jobs I am hiring for."
 
 ### **Application Architecture Diagram**
