@@ -118,6 +118,8 @@ As you can see from the Architecture diagram below, this application will have t
 
 ### **Entity Relationship Diagram (ERD)**
 
+ERD goes here
+
 ### **Dataflow Diagram**
 
 ### **Third Party Apps/Services**
