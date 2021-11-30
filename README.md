@@ -78,13 +78,13 @@ To manage the team for this application a Trello board was set up to help follow
 
 This is the initial board. Everything from the marking rubric was thrown in and our feature design was started. Colours were chosen for each team member and roles were assigned.
 
-The Trello board can be accessed publicly [here](https://trello.com/b/U2Pme2ea/project-management).
-
 <img src="Trello1.png" height="400px">
 
 As the deadline for Part A came close, exact roles were determined and delegated and moved into the doing column. Core features were decided upon first with secondary features coming under the 'nice the haves'.
 
 <img src="Trello2.png" height="400px">
+
+The Trello board can be accessed publicly [here](https://trello.com/b/U2Pme2ea/project-management).
 
 ### **Functionality / Features**
 
