@@ -195,51 +195,59 @@ Here are some high fidelity wireframes for the TechFind application in both Mobi
 
 Initial Landing Page Desktop:
 
-<img src="/" height="400px">
+<img src="Landing Page - Desktop.png" height="400px">
 
 Initial Landing Page Mobile:
 
-<img src="/" height="400px">
+<img src="Landing Page - Mobile.png" height="400px">
 
 Company Profile Page Desktop:
 
-<img src="/" height="400px">
+<img src="Company Profile Page - Desktop.png" height="400px">
+
+Company Profile Editor Page Desktop:
+
+<img src="Company Profile Page Editer - Desktop.png" height="400px">
 
 Company Profile Page Mobile:
 
-<img src="/" height="400px">
+<img src="Company Profile - Mobile.png" height="400px">
 
 Create a Job Page Desktop:
 
-<img src="/" height="400px">
+<img src="Create a Job Page - Desktop.png" height="400px">
 
 Create a Job Page Mobile:
 
-<img src="/" height="400px">
+<img src="Create  a Job Page - Mobile.png" height="400px">
 
 Jobs/Applications Page Desktop:
 
-<img src="/" height="400px">
+<img src="Jobs Page - Desktop.png" height="400px">
 
 Jobs/Applications Page Mobile:
 
-<img src="/" height="400px">
+<img src="Jobs Page - Mobile.png" height="400px">
 
 Personal Account Page Desktop:
 
-<img src="/" height="400px">
+<img src="Create Seeker Account - Desktop.png" height="400px">
 
 Personal Account Page Mobile:
 
-<img src="/" height="400px">
+<img src="Create Seeker Account - Mobile.png" height="400px">
 
 Login Page Desktop:
 
-<img src="/" height="400px">
+<img src="Create Account - Desktop.png" height="400px">
 
 Login Page Mobile:
 
-<img src="/" height="400px">
+<img src="Login Page - Mobile.png" height="400px">
+
+Total Webpage Flow:
+
+<img src="WebFlow_Diagram.png" height="400px">
 
 ### **Third Party Apps/Services**
 
