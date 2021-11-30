@@ -175,11 +175,15 @@ ERD goes here
 
 ### **Wireframes**
 
-Here are the initial wireframes for the TechFind application.
+Here are some high fidelity wireframes for the TechFind application in both Mobile and Desktop.
 
-Page one in Desktop and on the mobile:
+Initial Landing Page Desktop:
 
-Page one in Desktop and on the mobile:
+<img src="Desktop_Landing.png" height="400px">
+
+Initial Landing Page Mobile:
+
+<img src="Mobile_Landing.png" height="400px">
 
 ### **Third Party Apps/Services**
 
