@@ -133,7 +133,6 @@ The Poster can then post jobs by these options:
 - Level
 - Job Category
 - Salary / Wage (Not mandatory)
-- Application Questions (Not mandatory)
 
 The Poster can also make changes to their own profile once logged in and view/modify applications made to their job posting.
 
