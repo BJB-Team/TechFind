@@ -4,10 +4,13 @@
 </div>
 
 <p align="center">
-  <h2 align="center">Assignment 2A & 2B - Term 3</h2>
+  <h2 align="center">TechFind</h2>
+  <h2 align="center">Coder Academy Assignment 2A & 2B - Term 3</h2>
   <p align="center">
-    <a href="https://github.com/BJB-Team/TechFind">Link to Repository</a>
+    <a href="https://github.com/BJB-Team/TechFind">Link to Front-end Repository</a>
     ·
+    <a href="/">Link to Back-end Repository</a>
+    .
     <a href="/">Link to Deployed Website</a>
   </p>
 </p>
@@ -141,15 +144,13 @@ Here are some User Stories that we built this application from. Each stories out
 
 > "As a job seeker, I can login with my email and a password, so that I have a unique identification."
 
-> "As a job seeker, I can add some details like email, mobile or location, so that future employers can get in contact with me."
+> "As a job seeker, I can add some details like email or mobile, so that future employers can get in contact with me."
 
 > "As a job seeker, I can search by job categories, so that I can find jobs specific to my ideal career."
 
 > "As a job seeker, I can update and change my profile details, so that as my circumstances change I can stay up to date."
 
-> "As a job seeker, I can upload my resume/CV, so that potential employers can download it at any point in time."
-
-> "As a job seeker, I can message a job poster through the application, so that I can get a quick response back directly from the person/company."
+> "As a job seeker, I can upload my resume/CV, so that potential employers can download it when I apply for a job."
 
 #### As a Poster
 
