@@ -146,7 +146,7 @@ Here are some User Stories that we built this application from. Each stories out
 
 #### As a Seeker
 
-> “As a job seeker, I want to see what jobs candidates are posting, so that I can advance my career.”
+> “As a junior developer, I want to see what jobs candidates are posting, so that I can advance my career.”
 
 > "As a job seeker, I can login with my email and a password, so that I have a unique identification."
 
@@ -176,7 +176,9 @@ As you can see from the Architecture diagram below, this application will have t
 
 ### **Entity Relationship Diagram (ERD)**
 
-ERD goes here
+Here's a simple diagram of how our database design will be implemented.
+
+<img src="ERD.png" height="400px">
 
 ### **Dataflow Diagram**
 
