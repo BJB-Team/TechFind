@@ -22,7 +22,6 @@
 - [About the Project](#about-the-project)
   - [**Built With (Tech Stack)**](#built-with-tech-stack)
   - [**Statement of Purpose**](#statement-of-purpose)
-  - [**Wireframes**](#wireframes)
   - [**Target Audience**](#target-audience)
   - [**Project Management**](#project-management)
   - [**Functionality**](#functionality)
@@ -32,6 +31,7 @@
   - [**Application Architecture Diagram**](#application-architecture-diagram)
   - [**Entity Relationship Diagram (ERD)**](#entity-relationship-diagram-erd)
   - [**Dataflow Diagram**](#dataflow-diagram)
+  - [**Wireframes**](#wireframes)
   - [**Third Party Apps/Services**](#third-party-appsservices)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
@@ -57,16 +57,6 @@ The core programming languages used to build this application are:
 
 The purpose of the TechFind application is to link IT positions with candidates with those skills. Say goodbye to Junior Dev roles seeking 10 years experience in .NET roles. Each Job Poster can assign themselves to a company and create job advertisements to seek out potential employees.
 
-### **Wireframes**
-
-Here are the initial wireframes for the TechFind application.
-
-Page one in Desktop and on the mobile:
-
-Page one in Desktop and on the mobile:
-
-ect....
-
 ### **Target Audience**
 
 The target audience for this application are people in the technology industry looking for a job board that is specific to their industry.
@@ -74,6 +64,14 @@ The target audience for this application are people in the technology industry l
 ### **Project Management**
 
 To manage the team for this application a Trello board was set up.
+
+This is the initial board. Everything from the marking rubric was thrown in and our feature design was started. Colours were chosen for each team member and roles were assigned.
+
+<img src="Trello1.png" height="400px">
+
+As the deadline for Part A came close, exact roles were determined and delegated and moved into the doing column. Core features were decided upon first with secondary features coming under the 'nice the haves'.
+
+<img src="Trello2.png" height="400px">
 
 ### **Functionality**
 
@@ -122,6 +120,14 @@ ERD goes here
 
 ### **Dataflow Diagram**
 
+### **Wireframes**
+
+Here are the initial wireframes for the TechFind application.
+
+Page one in Desktop and on the mobile:
+
+Page one in Desktop and on the mobile:
+
 ### **Third Party Apps/Services**
 
 Here are the third party applications used for TechFinder, in no particular order:
@@ -158,11 +164,11 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Authors
 
-- Ben Aitcheson - [Github](https://github.com/benaitcheson) / [Website](https://www.benaitcheson.me/)
+- Ben Aitcheson - Organising the documentation and both front and back-end development. [Github](https://github.com/benaitcheson) / [Website](https://www.benaitcheson.me/)
 
-- Jack Kirkwood - [Github](https://github.com/jkirky82)
+- Jack Kirkwood - Back-end development and Databasing. [Github](https://github.com/jkirky82)
 
-- Lukusa (Blaise) Tshitenga - [Github](https://github.com/Blaise122)
+- Lukusa (Blaise) Tshitenga - Front-End development, Wireframing and Architecture design. [Github](https://github.com/Blaise122)
 
 ---
 
