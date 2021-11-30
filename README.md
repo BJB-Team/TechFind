@@ -24,7 +24,9 @@
   - [**Statement of Purpose**](#statement-of-purpose)
   - [**Target Audience**](#target-audience)
   - [**Project Management**](#project-management)
-  - [**Functionality**](#functionality)
+  - [**Functionality / Features**](#functionality--features)
+    - [**A Job Seeker Features**](#a-job-seeker-features)
+    - [**A Job Poster Features**](#a-job-poster-features)
   - [**User Stories**](#user-stories)
     - [As a Seeker](#as-a-seeker)
     - [As a Poster](#as-a-poster)
@@ -44,7 +46,7 @@
 
 ### **Built With (Tech Stack)**
 
-The core programming languages used to build this application are:
+The core programming languages/frameworks used to build this application are:
 
 - Ruby on Rails [Read Docs](https://guides.rubyonrails.org/getting_started.html)
 - HTML5 [Read Docs (Not official)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -73,14 +75,65 @@ As the deadline for Part A came close, exact roles were determined and delegated
 
 <img src="Trello2.png" height="400px">
 
-### **Functionality**
+### **Functionality / Features**
 
-Authentication
-Company profiles
+Here are some of the features that will be implemented for this application.
+
+Users are split into Job Seekers and Job Posters.
+
+#### **A Job Seeker Features**
+
+A Seeker on signup will require the user enter:
+
+- Username
+- Email
+- Password
+- Phone Number
+- Password Confirmation
+- Resume
+
+Each time the Seeker signs in they will go through the authentication process requiring a username/email and a password.
+
+The Seeker can then search jobs by these options:
+
+- Location
+- Levels
+- Job Categories
+
+The Seeker can also make changes to their own profile once logged in.
+
+#### **A Job Poster Features**
+
+A Poster on signup will require the user enter:
+
+- Username / Company
+- Email
+- Password
+- Password Confirmation
+- Company Details
+
+Each time the Poster signs in they will go through the authentication process requiring a username/email and a password.
+
+The Poster can then post jobs by these options:
+
+- Job description
+- Location
+- Level
+- Job Category
+- Salary / Wage (Not mandatory)
+- Application Questions (Not mandatory)
+
+The Poster can also make changes to their own profile once logged in and view/modify applications made to their job posting.
+
+A poster can view these about their applicants:
+
+- View seekers email, phone number, resume
+- Be able to approve/deny applications
+- Sort applications into different levels
 
 ### **User Stories**
 
-Here are some User Stories that we built this application from.
+Here are some User Stories that we built this application from. Each stories outlines how the features will be built following agile methodologies.
 
 #### As a Seeker
 
