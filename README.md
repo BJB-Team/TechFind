@@ -5,7 +5,7 @@
 
 <p align="center">
   <h2 align="center">TechFind</h2>
-  <h2 align="center">Coder Academy Assignment 2A & 2B - Term 3</h2>
+  <h3 align="center">Coder Academy Assignment 2A & 2B - Term 3</h3>
   <p align="center">
     <a href="https://github.com/BJB-Team/TechFind">Link to Front-end Repository</a>
     ·
@@ -56,7 +56,7 @@ The core programming languages/frameworks used to build this application are:
 - CSS3 [Read Docs (Not official)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - JavaScript (ES6) [Read Docs](https://262.ecma-international.org/6.0/)
 - ReactJS [Read Docs](https://reactjs.org/)
-- Postgresql 13.3 [Read Docs](https://www.postgresql.org/)
+- Postgresql [Read Docs](https://www.postgresql.org/)
 
 ### **Statement of Purpose**
 
@@ -68,7 +68,13 @@ The target audience for this application are people in the technology industry l
 
 ### **Project Management**
 
-To manage the team for this application a Trello board was set up.
+To manage the team for this application a Trello board was set up to help follow an agile methodology. Each team member has been assigned different roles.
+
+- Ben Aitcheson - Organising the documentation and both front and back-end development.
+
+- Jack Kirkwood - Back-end development and Databasing.
+
+- Lukusa (Blaise) Tshitenga - Front-End development, Wireframing and Architecture design.
 
 This is the initial board. Everything from the marking rubric was thrown in and our feature design was started. Colours were chosen for each team member and roles were assigned.
 
@@ -86,7 +92,7 @@ Users are split into Job Seekers and Job Posters.
 
 #### **A Job Seeker Features**
 
-A Seeker on signup will require the user enter:
+A Seeker on sign up will require the user enter:
 
 - Username
 - Email
@@ -107,7 +113,7 @@ The Seeker can also make changes to their own profile once logged in.
 
 #### **A Job Poster Features**
 
-A Poster on signup will require the user enter:
+A Poster on sign up will require the user enter:
 
 - Username / Company
 - Email
