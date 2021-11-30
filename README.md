@@ -70,13 +70,15 @@ The target audience for this application are people in the technology industry l
 
 To manage the team for this application a Trello board was set up to help follow an agile methodology. Each team member has been assigned different roles.
 
-- Ben Aitcheson - Organising the documentation and both front and back-end development.
+- Ben Aitcheson - Organising the documentation while assisting both front and back-end development.
 
-- Jack Kirkwood - Back-end development and Databasing.
+- Jack Kirkwood - Back-end development and Databases.
 
-- Lukusa (Blaise) Tshitenga - Front-End development, Wireframing and Architecture design.
+- Lukusa (Blaise) Tshitenga - Front-End development, Wire-framing and Architecture design.
 
 This is the initial board. Everything from the marking rubric was thrown in and our feature design was started. Colours were chosen for each team member and roles were assigned.
+
+The Trello board can be accessed publicly [here](https://trello.com/b/U2Pme2ea/project-management).
 
 <img src="Trello1.png" height="400px">
 
@@ -95,6 +97,8 @@ Users are split into Job Seekers and Job Posters.
 A Seeker on sign up will require the user enter:
 
 - Username
+- First Name
+- Last Name
 - Email
 - Password
 - Phone Number
@@ -105,7 +109,6 @@ Each time the Seeker signs in they will go through the authentication process re
 
 The Seeker can then search jobs by these options:
 
-- Location
 - Levels
 - Job Categories
 
@@ -119,7 +122,7 @@ A Poster on sign up will require the user enter:
 - Email
 - Password
 - Password Confirmation
-- Company Details
+- Company Details (Website)
 
 Each time the Poster signs in they will go through the authentication process requiring a username/email and a password.
 
@@ -152,7 +155,7 @@ Here are some User Stories that we built this application from. Each stories out
 
 > "As a job seeker, I can add some details like email or mobile, so that future employers can get in contact with me."
 
-> "As a job seeker, I can search by job categories, so that I can find jobs specific to my ideal career."
+> "As a junior developer, I can search by job categories, so that I can find jobs specific to my ideal career."
 
 > "As a job seeker, I can update and change my profile details, so that as my circumstances change I can stay up to date."
 
@@ -160,13 +163,13 @@ Here are some User Stories that we built this application from. Each stories out
 
 #### As a Poster
 
-> “As a job poster, I want to find the right candidates, so that I get the best people for the job.”
+> “As a future hirer, I want to find the right candidates, so that I get the best people for the job.”
 
 > "As a job poster, I can login with my email and password, so that I have a unique identification."
 
 > "As a job poster, I can login under my company profile, so that seekers can see which company I work for."
 
-> "As a job poster, I can add jobs to my company profile, so that I can show future prospects what jobs I am hiring for."
+> "As a company, I can add jobs to my company profile, so that I can show future prospects what jobs I am hiring for."
 
 ### **Application Architecture Diagram**
 
@@ -182,17 +185,61 @@ Here's a simple diagram of how our database design will be implemented.
 
 ### **Dataflow Diagram**
 
+The dataflow diagram shows how the data moves around the application. This one shows the data from the Seeker side (Left side) and the company/Job Poster side (Right side).
+
+<img src="Dataflow_Diagram.png" height="300px">
+
 ### **Wireframes**
 
 Here are some high fidelity wireframes for the TechFind application in both Mobile and Desktop.
 
 Initial Landing Page Desktop:
 
-<img src="Desktop_Landing.png" height="400px">
+<img src="/" height="400px">
 
 Initial Landing Page Mobile:
 
-<img src="Mobile_Landing.png" height="400px">
+<img src="/" height="400px">
+
+Company Profile Page Desktop:
+
+<img src="/" height="400px">
+
+Company Profile Page Mobile:
+
+<img src="/" height="400px">
+
+Create a Job Page Desktop:
+
+<img src="/" height="400px">
+
+Create a Job Page Mobile:
+
+<img src="/" height="400px">
+
+Jobs/Applications Page Desktop:
+
+<img src="/" height="400px">
+
+Jobs/Applications Page Mobile:
+
+<img src="/" height="400px">
+
+Personal Account Page Desktop:
+
+<img src="/" height="400px">
+
+Personal Account Page Mobile:
+
+<img src="/" height="400px">
+
+Login Page Desktop:
+
+<img src="/" height="400px">
+
+Login Page Mobile:
+
+<img src="/" height="400px">
 
 ### **Third Party Apps/Services**
 
