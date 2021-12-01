@@ -244,9 +244,13 @@ Login Page Mobile:
 
 <img src="Login Page - Mobile.png" height="400px">
 
-Total Webpage Flow:
+Mobile Webpage Flow as a Seeker:
 
-<img src="WebFlow_Diagram.png" height="400px">
+<img src="Webflow - Mobile1.png" height="400px">
+
+Mobile Webpage Flow as a Poster:
+
+<img src="Webflow - Mobile2.png" height="400px">
 
 ### **Third Party Apps/Services**
 
