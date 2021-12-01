@@ -78,11 +78,11 @@ To manage the team for this application a Trello board was set up to help follow
 
 This is the initial board. Everything from the marking rubric was thrown in and our feature design was started. Colours were chosen for each team member and roles were assigned.
 
-<img src="Trello1.png" height="400px">
+<img src="Resources/Trello1.png" height="400px">
 
 As the deadline for Part A came close, exact roles were determined and delegated and moved into the doing column. Core features were decided upon first with secondary features coming under the 'nice the haves'.
 
-<img src="Trello2.png" height="400px">
+<img src="Resources/Trello2.png" height="400px">
 
 The Trello board can be accessed publicly [here](https://trello.com/b/U2Pme2ea/project-management).
 
@@ -174,19 +174,19 @@ Here are some User Stories that we built this application from. Each stories out
 
 As you can see from the Architecture diagram below, this application will have the front-end deployed through Netlify while the back-end will be on Heroku. Axios requests will send information between the two platforms creating a full stack application completely hosted on the cloud.
 
-<img src="ArchitectureDiagram.png">
+<img src="Resources/ArchitectureDiagram.png">
 
 ### **Entity Relationship Diagram (ERD)**
 
 Here's a simple diagram of how our database design will be implemented.
 
-<img src="ERD.png" height="400px">
+<img src="Resources/ERD.png" height="400px">
 
 ### **Dataflow Diagram**
 
 The dataflow diagram shows how the data moves around the application. This one shows the data from the Seeker side (Left side) and the company/Job Poster side (Right side).
 
-<img src="Dataflow_Diagram.png" height="300px">
+<img src="Resources/Dataflow_Diagram.png" height="300px">
 
 ### **Wireframes**
 
@@ -194,83 +194,83 @@ Here are some high fidelity wireframes for the TechFind application in both Mobi
 
 Initial Landing Page Desktop:
 
-<img src="Landing Page - Desktop.png" height="400px">
+<img src="Resources/Landing Page - Desktop.png" height="400px">
 
 Initial Landing Page Tablet:
 
-<img src="Tablet - Landing Page.png" height="400px">
+<img src="Resources/Tablet - Landing Page.png" height="400px">
 
 Initial Landing Page Mobile:
 
-<img src="Landing Page - Mobile.png" height="400px">
+<img src="Resources/Landing Page - Mobile.png" height="400px">
 
 Company Profile Page Desktop:
 
-<img src="Company Profile Page - Desktop.png" height="400px">
+<img src="Resources/Company Profile Page - Desktop.png" height="400px">
 
 Company Profile Editor Page Desktop:
 
-<img src="Company Profile Page Editer - Desktop.png" height="400px">
+<img src="Resources/Company Profile Page Editer - Desktop.png" height="400px">
 
 Company Profile Editor Page Tablet:
 
-<img src="Tablet - Job seeker  Profile Page Editer.png" height="400px">
+<img src="Resources/Tablet - Job seeker  Profile Page Editer.png" height="400px">
 
 Company Profile Editor Page Tablet:
 
-<img src="Tablet - Company Profile Page Editer.png" height="400px">
+<img src="Resources/Tablet - Company Profile Page Editer.png" height="400px">
 
 Company Profile Page Mobile:
 
-<img src="Company Profile - Mobile.png" height="400px">
+<img src="Resources/Company Profile - Mobile.png" height="400px">
 
 Create a Job Page Desktop:
 
-<img src="Create a Job Page - Desktop.png" height="400px">
+<img src="Resources/Create a Job Page - Desktop.png" height="400px">
 
 Create a Job Page Tablet:
 
-<img src="Tablet - create a Jobs.png" height="400px">
+<img src="Resources/Tablet - create a Jobs.png" height="400px">
 
 Create a Job Page Mobile:
 
-<img src="Create  a Job Page - Mobile.png" height="400px">
+<img src="Resources/Create  a Job Page - Mobile.png" height="400px">
 
 Jobs/Applications Page Desktop:
 
-<img src="Jobs Page - Desktop.png" height="400px">
+<img src="Resources/Jobs Page - Desktop.png" height="400px">
 
 Jobs/Applications Page Tablet:
 
-<img src="Tablet - company applications.png" height="400px">
+<img src="Resources/Tablet - company applications.png" height="400px">
 
 Jobs/Applications Page Mobile:
 
-<img src="Jobs Page - Mobile.png" height="400px">
+<img src="Resources/Jobs Page - Mobile.png" height="400px">
 
 Personal Account Page Desktop:
 
-<img src="Create Seeker Account - Desktop.png" height="400px">
+<img src="Resources/Create Seeker Account - Desktop.png" height="400px">
 
 Personal Account Page Mobile:
 
-<img src="Create Seeker Account - Mobile.png" height="400px">
+<img src="Resources/Create Seeker Account - Mobile.png" height="400px">
 
 Login Page Desktop:
 
-<img src="Create Account - Desktop.png" height="400px">
+<img src="Resources/Create Account - Desktop.png" height="400px">
 
 Login Page Mobile:
 
-<img src="Login Page - Mobile.png" height="400px">
+<img src="Resources/Login Page - Mobile.png" height="400px">
 
 Mobile Webpage Flow as a Seeker:
 
-<img src="Webflow - Mobile1.png" height="400px">
+<img src="Resources/Webflow - Mobile1.png" height="400px">
 
 Mobile Webpage Flow as a Poster:
 
-<img src="Webflow - Mobile2.png" height="400px">
+<img src="Resources/Webflow - Mobile2.png" height="400px">
 
 ### **Third Party Apps/Services**
 
