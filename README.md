@@ -196,6 +196,10 @@ Initial Landing Page Desktop:
 
 <img src="Landing Page - Desktop.png" height="400px">
 
+Initial Landing Page Tablet:
+
+<img src="Tablet - Landing Page.png" height="400px">
+
 Initial Landing Page Mobile:
 
 <img src="Landing Page - Mobile.png" height="400px">
@@ -208,6 +212,14 @@ Company Profile Editor Page Desktop:
 
 <img src="Company Profile Page Editer - Desktop.png" height="400px">
 
+Company Profile Editor Page Tablet:
+
+<img src="Tablet - Job seeker  Profile Page Editer.png" height="400px">
+
+Company Profile Editor Page Tablet:
+
+<img src="Tablet - Company Profile Page Editer.png" height="400px">
+
 Company Profile Page Mobile:
 
 <img src="Company Profile - Mobile.png" height="400px">
@@ -216,6 +228,10 @@ Create a Job Page Desktop:
 
 <img src="Create a Job Page - Desktop.png" height="400px">
 
+Create a Job Page Tablet:
+
+<img src="Tablet - create a Jobs.png" height="400px">
+
 Create a Job Page Mobile:
 
 <img src="Create  a Job Page - Mobile.png" height="400px">
@@ -223,6 +239,10 @@ Create a Job Page Mobile:
 Jobs/Applications Page Desktop:
 
 <img src="Jobs Page - Desktop.png" height="400px">
+
+Jobs/Applications Page Tablet:
+
+<img src="Tablet - company applications.png" height="400px">
 
 Jobs/Applications Page Mobile:
 
